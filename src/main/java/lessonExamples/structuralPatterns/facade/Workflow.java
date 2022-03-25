@@ -1,4 +1,4 @@
-package lessonExamples.facade;
+package lessonExamples.structuralPatterns.facade;
 
 public class Workflow {
     Developer developer = new Developer();

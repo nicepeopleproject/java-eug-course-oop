@@ -1,5 +1,4 @@
-package lessonExamples.decorator;
-
+package lessonExamples.structuralPatterns.decorator;
 public class JavaTeamLead extends DeveloperDecorator{
     public JavaTeamLead(Developer developer) {
         super(developer);

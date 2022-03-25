@@ -1,6 +1,6 @@
-package lessonExamples.adapter;
+package lessonExamples.structuralPatterns.adapter;
 
-public class AdapterJavaToDatabase extends lessonExamples.adapter.JavaApplication implements lessonExamples.adapter.Database {
+public class AdapterJavaToDatabase extends JavaApplication implements Database {
     @Override
     public void insert() {
         saveObject();

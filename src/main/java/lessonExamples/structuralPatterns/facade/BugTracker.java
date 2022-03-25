@@ -1,4 +1,4 @@
-package lessonExamples.facade;
+package lessonExamples.structuralPatterns.facade;
 
 public class BugTracker {
     private boolean activeSprint;

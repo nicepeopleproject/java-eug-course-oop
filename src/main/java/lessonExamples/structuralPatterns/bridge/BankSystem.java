@@ -1,5 +1,4 @@
-package lessonExamples.bridge;
-
+package lessonExamples.structuralPatterns.bridge;
 public class BankSystem extends Program{
     protected BankSystem(Developer developer) {
         super(developer);

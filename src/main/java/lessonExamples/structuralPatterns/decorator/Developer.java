@@ -1,4 +1,4 @@
-package lessonExamples.decorator;
+package lessonExamples.structuralPatterns.decorator;
 
 public interface Developer {
     String makeJob();

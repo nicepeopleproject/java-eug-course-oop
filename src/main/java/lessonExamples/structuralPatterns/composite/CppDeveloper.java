@@ -1,4 +1,4 @@
-package lessonExamples.composite;
+package lessonExamples.structuralPatterns.composite;
 
 public class CppDeveloper implements Developer{
     @Override

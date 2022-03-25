@@ -1,6 +1,5 @@
-package lessonExamples.bridge;
-
-public class CppDeveloper implements lessonExamples.bridge.Developer {
+package lessonExamples.structuralPatterns.bridge;
+public class CppDeveloper implements Developer {
     @Override
     public void writeCode() {
         System.out.println("Cpp developer write code");

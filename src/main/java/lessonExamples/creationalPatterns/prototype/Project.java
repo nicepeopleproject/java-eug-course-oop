@@ -1,4 +1,4 @@
-package lessonExamples.prototype;
+package lessonExamples.creationalPatterns.prototype;
 
 public class Project implements Copyable {
     private int id;

@@ -1,4 +1,4 @@
-package lessonExamples.flyweight;
+package lessonExamples.structuralPatterns.flyweight;
 
 import java.util.ArrayList;
 import java.util.List;

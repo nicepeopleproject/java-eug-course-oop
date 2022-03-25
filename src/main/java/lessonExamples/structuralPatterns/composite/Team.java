@@ -1,4 +1,4 @@
-package lessonExamples.composite;
+package lessonExamples.structuralPatterns.composite;
 
 import java.util.ArrayList;
 import java.util.List;

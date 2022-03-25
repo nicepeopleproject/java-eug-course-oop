@@ -1,5 +1,4 @@
-package lessonExamples.decorator;
-
+package lessonExamples.structuralPatterns.decorator;
 public class SeniorJavaDeveloper extends DeveloperDecorator{
     public SeniorJavaDeveloper(Developer developer) {
         super(developer);

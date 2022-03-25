@@ -1,4 +1,4 @@
-package lessonExamples.adapter;
+package lessonExamples.structuralPatterns.adapter;
 
 
 /*

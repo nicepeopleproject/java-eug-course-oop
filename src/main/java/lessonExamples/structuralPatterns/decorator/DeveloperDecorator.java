@@ -1,9 +1,8 @@
-package lessonExamples.decorator;
+package lessonExamples.structuralPatterns.decorator;
+public class DeveloperDecorator implements Developer {
+    Developer developer;
 
-public class DeveloperDecorator implements lessonExamples.decorator.Developer {
-    lessonExamples.decorator.Developer developer;
-
-    public DeveloperDecorator(lessonExamples.decorator.Developer developer) {
+    public DeveloperDecorator(Developer developer) {
         this.developer = developer;
     }
 

@@ -1,4 +1,4 @@
-package lessonExamples.composite;
+package lessonExamples.structuralPatterns.composite;
 
 public class Project {
     public static void main(String[] args) {

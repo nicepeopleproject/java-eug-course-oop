@@ -1,4 +1,4 @@
-package lessonExamples.flyweight;
+package lessonExamples.structuralPatterns.flyweight;
 
 public class JavaDeveloper implements Developer {
     @Override

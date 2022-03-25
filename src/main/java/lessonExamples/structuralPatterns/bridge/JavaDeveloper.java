@@ -1,5 +1,4 @@
-package lessonExamples.bridge;
-
+package lessonExamples.structuralPatterns.bridge;
 public class JavaDeveloper implements Developer{
     @Override
     public void writeCode() {

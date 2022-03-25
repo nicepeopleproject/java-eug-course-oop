@@ -1,4 +1,4 @@
-package lessonExamples.flyweight;
+package lessonExamples.structuralPatterns.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;

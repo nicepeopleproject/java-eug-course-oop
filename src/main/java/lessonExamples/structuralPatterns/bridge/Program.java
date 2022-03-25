@@ -1,9 +1,8 @@
-package lessonExamples.bridge;
-
+package lessonExamples.structuralPatterns.bridge;
 public abstract class Program {
-    protected lessonExamples.bridge.Developer developer;
+    protected Developer developer;
 
-    protected Program(lessonExamples.bridge.Developer developer) {
+    protected Program(Developer developer) {
         this.developer = developer;
     }
 
